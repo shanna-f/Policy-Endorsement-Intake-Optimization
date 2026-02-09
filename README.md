@@ -40,7 +40,7 @@ A high-level process flow revealed heavy reliance on:
 
 This resulted in longer turnaround times, inefficient resource use, rework, and frustration for agents and policyholders.
 
-image  
+<img width="1035" height="645" alt="image" src="https://github.com/user-attachments/assets/40097f01-4ce6-4305-8e89-c17446fc60b2" />
 *Figure 1: Current State Endorsement Intake & Processing Flow*
 
 ✨ **BA Insight:** Defining the problem clearly and documenting the current state created the foundation for identifying gaps, setting goals, and designing a defensible solution.
@@ -49,29 +49,21 @@ image
 
 ---
 
-## Part 2: Goals, Alignment & Success Measures
-With the problems clearly defined, I moved into setting goals and success metrics to ensure the initiative delivered both operational and strategic value.
+## Part 4: Stakeholder Analysis
+Successful change required alignment across multiple groups.
 
-### 🎯 Key Goals
-- Reduce average processing time for simple endorsements from **5 days to 2 days** within 3 months
-- Reduce manual handoffs for simple endorsements by **50%** within 3 months
-- Provide real-time visibility into backlog by endorsement type and aging within **30 days**
-- Maintain compliance error rates at **≤ 1%** post-implementation
+### 🔑 Key Stakeholders
+- **High Influence / High Interest:** Project Sponsor, Policy Operations Manager
+- **High Influence / Medium Interest:** Compliance Lead, IT/System Owner
+- **Medium Influence / High Interest:** Policy Processors
+- **Medium Influence / Medium Interest:** Agents
 
-### 🚀 Strategic Alignment
-- **Efficiency:** Fast-track low-risk work
-- **Customer Experience:** Faster turnaround for routine changes
-- **Operational Control:** Better workload visibility
-- **Compliance:** Embedded checks aligned to risk
+I tailored communication strategies based on influence, interest, and role.
 
-### 📊 Sample KPIs
-- Average turnaround time (simple vs. complex)
-- % endorsements processed within SLA
-- Manual handoffs per endorsement
-- Compliance error rate
-- Backlog volume by complexity
+image  
+*Figure 3: Stakeholder Influence vs. Interest Matrix*
 
-✨ Clear goals and KPIs ensured accountability and measurable success.
+✨ **Key Takeaway:** Communication is not one-size-fits-all. Tailoring engagement reduced friction and improved buy-in.
 
 🔗 Back to TOC
 
@@ -102,21 +94,29 @@ image
 
 ---
 
-## Part 4: Stakeholder Analysis
-Successful change required alignment across multiple groups.
+## Part 2: Goals, Alignment & Success Measures
+With the problems clearly defined, I moved into setting goals and success metrics to ensure the initiative delivered both operational and strategic value.
 
-### 🔑 Key Stakeholders
-- **High Influence / High Interest:** Project Sponsor, Policy Operations Manager
-- **High Influence / Medium Interest:** Compliance Lead, IT/System Owner
-- **Medium Influence / High Interest:** Policy Processors
-- **Medium Influence / Medium Interest:** Agents
+### 🎯 Key Goals
+- Reduce average processing time for simple endorsements from **5 days to 2 days** within 3 months
+- Reduce manual handoffs for simple endorsements by **50%** within 3 months
+- Provide real-time visibility into backlog by endorsement type and aging within **30 days**
+- Maintain compliance error rates at **≤ 1%** post-implementation
 
-I tailored communication strategies based on influence, interest, and role.
+### 🚀 Strategic Alignment
+- **Efficiency:** Fast-track low-risk work
+- **Customer Experience:** Faster turnaround for routine changes
+- **Operational Control:** Better workload visibility
+- **Compliance:** Embedded checks aligned to risk
 
-image  
-*Figure 3: Stakeholder Influence vs. Interest Matrix*
+### 📊 Sample KPIs
+- Average turnaround time (simple vs. complex)
+- % endorsements processed within SLA
+- Manual handoffs per endorsement
+- Compliance error rate
+- Backlog volume by complexity
 
-✨ **Key Takeaway:** Communication is not one-size-fits-all. Tailoring engagement reduced friction and improved buy-in.
+✨ Clear goals and KPIs ensured accountability and measurable success.
 
 🔗 Back to TOC
 
@@ -244,7 +244,56 @@ The project delivered:
 
 ✨ This case study deepened my ability to bridge operational problems with strategic, data-backed solutions.
 
+## 🧠 How I Think as a Business Analyst
+This case study reflects how I consistently approach business analysis work:
+
+- Start with the problem, not the solution 
+- Design for differentiation, not uniformity  
+- Maintain traceability at all times
+- Balance efficiency with control 
+- Define success with measurable outcomes  
+- Iterate through feedback and challenge  
+- Think end-to-end, beyond individual requirements
+
 🔗 Back to TOC
+
+---
+
+## 🔗 Traceability & Alignment
+A critical focus of this case study was ensuring **end-to-end traceability** across the analysis and solution design.
+
+I created and maintained traceability mapping to explicitly link:
+- Identified pain points  
+- Current-state gaps  
+- Future-state process changes  
+- Business goals and SMART objectives  
+- KPIs and success metrics  
+
+This ensured:
+- Every solution element addressed a validated problem  
+- Every objective could be traced back to a specific pain point  
+- No requirements or design decisions existed in isolation  
+
+I spent significant time **reviewing and aligning key sections together**, including:
+- Problem statement and pain points  
+- Gap analysis  
+- Future-state workflow  
+- Goals, objectives, and KPIs  
+
+This iterative alignment strengthened the business narrative, removed inconsistencies, and resulted in a cohesive and defensible case for change.
+
+---
+
+## 🧪 Validation & Iterative Review Approach
+To simulate real-world stakeholder challenge and sponsorship, I used **ChatGPT as a stand-in project sponsor and reviewer** throughout the case study.
+
+I deliberately:
+- Asked clarifying questions to test problem framing  
+- Requested critiques of gaps, objectives, and solution logic  
+- Challenged whether KPIs truly measured intended outcomes  
+- Reviewed feedback and made targeted updates to improve clarity, rigor, and alignment  
+
+This mirrors how I work with sponsors and senior stakeholders in practice—treating analysis as iterative, review-driven, and continuously refined rather than “one and done.”
 
 ---
 
