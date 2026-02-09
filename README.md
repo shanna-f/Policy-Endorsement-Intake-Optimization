@@ -42,6 +42,7 @@ A high-level process flow revealed heavy reliance on:
 This resulted in longer turnaround times, inefficient resource use, rework, and frustration for agents and policyholders.
 
 <img width="1035" height="645" alt="image" src="https://github.com/user-attachments/assets/40097f01-4ce6-4305-8e89-c17446fc60b2" />
+
 *Figure 1: Current State Endorsement Intake & Processing Flow*
 
 
@@ -88,6 +89,7 @@ The next step was translating strategy into a practical, scalable solution.
 - Dashboards for real-time backlog and aging visibility
 
 <img width="1013" height="776" alt="image" src="https://github.com/user-attachments/assets/3629567a-bba3-4557-9f2d-ff3b3114dc44" />
+
 *Figure 2: Future State Endorsement Intake & Processing Flow*
 
 
@@ -176,6 +178,7 @@ To ensure sustainable delivery, I defined governance, implementation, and transi
 - Defined process for rule updates and exceptions
 
 <img width="1680" height="590" alt="image" src="https://github.com/user-attachments/assets/9d670741-e45d-4e8a-b1ba-92c7ea576c1a" />
+
 *Figure 5: Implementation Plan*
 
 
