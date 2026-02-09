@@ -53,7 +53,7 @@ This resulted in longer turnaround times, inefficient resource use, rework, and 
 ---
 
 ## Part 2: Stakeholder Analysis
-Successful change required alignment across multiple groups.
+With the problem and current state clearly understood, the next step was to identify who was impacted, who influenced decisions, and how each stakeholder group needed to be engaged to move the initiative forward.
 
 ### 🔑 Key Stakeholders
 - **High Influence / High Interest:** Project Sponsor, Policy Operations Manager
