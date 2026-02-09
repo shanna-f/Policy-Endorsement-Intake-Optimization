@@ -1,4 +1,4 @@
-#🔄 Business Analyst Case Study: Policy Endorsement Intake Optimization  
+# 🔄 Business Analyst Case Study: Policy Endorsement Intake Optimization  
 image
 
 A fictional case study project (for portfolio purposes) where I worked on improving policy endorsement intake and processing for a property & casualty insurance organization by introducing complexity-based triage and differentiated workflows.
