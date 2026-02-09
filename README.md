@@ -67,7 +67,7 @@ I tailored communication strategies based on influence, interest, and role.
 
 <img width="1665" height="685" alt="image" src="https://github.com/user-attachments/assets/3661e2ac-4a20-48ce-ad9b-ff6a8a2baed5" />
  
-*Figure 3: Stakeholder Influence vs. Interest Matrix*
+*Figure 3: Stakeholder Register*
 
 ✨ Communication is not one-size-fits-all. Tailoring engagement reduced friction and improved buy-in.
 
