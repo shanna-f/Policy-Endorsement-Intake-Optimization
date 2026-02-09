@@ -49,7 +49,7 @@ This resulted in longer turnaround times, inefficient resource use, rework, and 
 
 ---
 
-## Part 4: Stakeholder Analysis
+## Part 2: Stakeholder Analysis
 Successful change required alignment across multiple groups.
 
 ### 🔑 Key Stakeholders
@@ -94,7 +94,7 @@ The next step was translating strategy into a practical, scalable solution.
 
 ---
 
-## Part 2: Goals, Alignment & Success Measures
+## Part 4: Goals, Alignment & Success Measures
 With the problems clearly defined, I moved into setting goals and success metrics to ensure the initiative delivered both operational and strategic value.
 
 ### 🎯 Key Goals
