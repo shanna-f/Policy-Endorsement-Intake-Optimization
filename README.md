@@ -75,22 +75,107 @@ I tailored communication strategies based on influence, interest, and role.
 
 ---
 
-## Part 3: Proposed Solution & Future State
-The next step was translating strategy into a practical, scalable solution.
+## Part 3: Gap Analysis, Future State & Proposed Solution
+
+With stakeholders aligned and the problem clearly defined, I focused on understanding **where the current process fell short**, what the future state needed to achieve, and which solution approach best balanced efficiency, compliance, and operational impact.
 
 ### 💥 My Approach
-- Evaluated multiple solution options
-- Recommended a full process optimization approach
-- Designed future-state workflows
-- Defined in-scope vs. out-of-scope capabilities
+I followed a structured, analysis-driven approach to move from problem to solution:
+- Compared current vs. future state
+- Identified root causes of delays
+- Mapped gaps to solutions
+- Designed future-state high level process flow
+- Evaluated solution options
+- Recommended a process optimization approach
+- Defined scope
 
-### ☀️ Proposed Solution Highlights
-- Complexity-based triage at intake
-- Fast-track workflow for simple, low-risk endorsements
-- Standard workflow retained for complex endorsements
-- Embedded compliance rules and auditability
-- Dashboards for real-time backlog and aging visibility
+This ensured the recommended solution addressed validated problems rather than assumptions.
 
+---
+
+### 🔍 Gap Analysis
+I performed a detailed gap analysis comparing the **current endorsement intake and processing model** to the **desired future state**.
+
+**Key Gaps Identified**
+- Simple endorsements were delayed due to lack of intake differentiation  
+- A uniform workflow created unnecessary manual effort and handoffs  
+- Managers lacked visibility into backlog composition and aging  
+- Compliance checks occurred late, increasing rework risk  
+
+**Root Causes**
+- Single intake queue with no classification logic  
+- One-size-fits-all processing regardless of risk or complexity  
+- No reporting by endorsement type  
+- No defined compliance rules for fast-tracked work  
+
+These gaps directly informed both the future-state design and the solution options considered.
+
+---
+
+### 🔮 Future State & Options Considered
+Based on the gap analysis, I evaluated three high-level options to improve endorsement processing:
+
+**Option 1: Do Nothing**  
+Maintain the current single workflow for all endorsements.  
+- *Outcome:* No improvement; backlogs and inefficiencies persist  
+- *Recommendation:* Not viable  
+
+**Option 2: Partial Triage**  
+Introduce limited intake differentiation for simple requests while keeping most steps unchanged.  
+- *Outcome:* Short-term improvement with limited scalability  
+- *Recommendation:* Possible interim step, but insufficient long term  
+
+**Option 3: Full Process Optimization (Recommended) ✅**  
+Implement complexity-based triage at intake, differentiated workflows, embedded compliance checks, and operational dashboards.  
+- *Outcome:* Aligns processing effort to risk, improves turnaround time, and enables proactive workload management  
+
+Option 3 was selected as the most sustainable and scalable approach, balancing efficiency, compliance, and business impact.
+
+---
+
+### ☀️ Proposed Solution – High-Level Overview
+The recommended solution introduces **complexity-based triage and differentiated processing paths** to ensure endorsements are handled based on risk and effort.
+
+**Key Solution Components**
+- **Triage at Intake:** Classify endorsements as simple or complex using predefined business and compliance rules  
+- **Differentiated Processing Paths:**  
+  - Fast-track low-risk endorsements through a streamlined workflow  
+  - Route complex endorsements through the standard review process  
+- **Streamlined Processing:** Reduce unnecessary steps and manual handoffs for simple requests  
+- **Enhanced Visibility:** Dashboards and reports for backlog composition, aging, and workload distribution  
+- **Integrated Compliance Checks:** Embed rule-based compliance checks early while maintaining audit trails  
+
+This solution ensures simple endorsements are completed faster, skilled resources are focused where they add the most value, compliance is maintained, and operational visibility is significantly improved.
+
+image  
+*Figure 2: Future State Endorsement Intake & Processing Flow*
+
+---
+
+### 📦 Scope
+To maintain focus and deliver value quickly, the scope for this phase was clearly defined.
+
+**In Scope**
+- Complexity-based triage at endorsement intake  
+- Fast-track workflow for simple, low-risk endorsements  
+- Standard workflow for complex endorsements  
+- Rule-based compliance checks embedded in processing  
+- Operational dashboards for backlog and aging visibility  
+
+**Out of Scope**
+- Changes to policy products, coverage rules, or pricing  
+- Full replacement or redesign of the policy administration system  
+- Advanced automation beyond basic triage (e.g., AI-driven decisioning)  
+- Organizational or staffing changes  
+- Custom ad hoc reporting beyond defined dashboard views  
+
+Defining scope boundaries helped prevent scope creep and ensured delivery remained aligned to the core business problem.
+
+✨ Grounding the future-state design in gap analysis and a clearly defined scope ensured the solution addressed real operational pain points without overextending the initiative.
+
+***With the solution and scope defined, I then established clear goals and success measures to ensure the changes delivered measurable business value.***
+
+🔗 Back to TOC
 <img width="1013" height="776" alt="image" src="https://github.com/user-attachments/assets/3629567a-bba3-4557-9f2d-ff3b3114dc44" />
 
 *Figure 2: Future State Endorsement Intake & Processing Flow*
