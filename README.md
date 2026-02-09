@@ -56,17 +56,20 @@ This resulted in longer turnaround times, inefficient resource use, rework, and 
 With the problem and current state clearly understood, the next step was to identify who was impacted, who influenced decisions, and how each stakeholder group needed to be engaged to move the initiative forward.
 
 ### 🔑 Key Stakeholders
-- **High Influence / High Interest:** Project Sponsor, Policy Operations Manager
-- **High Influence / Medium Interest:** Compliance Lead, IT/System Owner
-- **Medium Influence / High Interest:** Policy Processors
-- **Medium Influence / Medium Interest:** Agents
+- Policy Operations Manager
+- Compliance Lead
+- Policy Processors
+- Agents
+- IT/System Systems Support
+- Policyholders
 
 I tailored communication strategies based on influence, interest, and role.
 
-image  
+<img width="1665" height="685" alt="image" src="https://github.com/user-attachments/assets/3661e2ac-4a20-48ce-ad9b-ff6a8a2baed5" />
+ 
 *Figure 3: Stakeholder Influence vs. Interest Matrix*
 
-✨ **Key Takeaway:** Communication is not one-size-fits-all. Tailoring engagement reduced friction and improved buy-in.
+✨ Communication is not one-size-fits-all. Tailoring engagement reduced friction and improved buy-in.
 
 🔗 Back to TOC
 
