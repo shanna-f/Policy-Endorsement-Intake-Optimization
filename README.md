@@ -111,6 +111,28 @@ This ensured the recommendation was not only operationally sound, but financiall
 
 ---
 
+## 7. Implementation & Governance Planning
+
+I defined a **phased, low-risk delivery approach** to ensure the future-state solution could be implemented without disrupting day-to-day operations.
+
+### Delivery Phases
+- **Planning & requirements**
+- **Design & validation**
+- **System configuration**
+- **Testing & UAT**
+- **Training & go-live**
+- **Post-implementation monitoring**
+
+### Governance & Controls
+The implementation approach included:
+- A **clear governance structure** with defined roles and responsibilities  
+- **Decision-making and escalation paths** for scope, risk, and compliance issues  
+- A **transition plan to operations** to support adoption, ongoing monitoring, and continuous improvement  
+
+This structure ensured accountability, minimized delivery risk, and supported sustainable long-term outcomes beyond initial go-live.
+
+---
+
 ## 🔗 Traceability & Alignment
 A critical focus of this case study was ensuring **end-to-end traceability** across the analysis and solution design.
 
