@@ -1,5 +1,6 @@
 # 🔄 Policy Endorsement Intake Optimization  
-image
+<img width="1917" height="1075" alt="image" src="https://github.com/user-attachments/assets/11f5cbb7-b510-4730-af90-4f96583977a7" />
+
 
 A fictional case study project (for portfolio purposes) where I worked on improving policy endorsement intake and processing for a property & casualty insurance organization by introducing complexity-based triage and differentiated workflows.
 
@@ -42,6 +43,7 @@ This resulted in longer turnaround times, inefficient resource use, rework, and 
 
 <img width="1035" height="645" alt="image" src="https://github.com/user-attachments/assets/40097f01-4ce6-4305-8e89-c17446fc60b2" />
 *Figure 1: Current State Endorsement Intake & Processing Flow*
+
 
 ✨ **BA Insight:** Defining the problem clearly and documenting the current state created the foundation for identifying gaps, setting goals, and designing a defensible solution.
 
@@ -87,6 +89,7 @@ The next step was translating strategy into a practical, scalable solution.
 
 <img width="1013" height="776" alt="image" src="https://github.com/user-attachments/assets/3629567a-bba3-4557-9f2d-ff3b3114dc44" />
 *Figure 2: Future State Endorsement Intake & Processing Flow*
+
 
 ✨ This step clarified *where* improvements occur and *how* success would be measured.
 
@@ -174,6 +177,7 @@ To ensure sustainable delivery, I defined governance, implementation, and transi
 
 <img width="1680" height="590" alt="image" src="https://github.com/user-attachments/assets/9d670741-e45d-4e8a-b1ba-92c7ea576c1a" />
 *Figure 5: Implementation Plan*
+
 
 ✨ Governance and transition planning ensured accountability beyond go-live.
 
