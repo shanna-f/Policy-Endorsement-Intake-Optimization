@@ -85,7 +85,7 @@ The next step was translating strategy into a practical, scalable solution.
 - Embedded compliance rules and auditability
 - Dashboards for real-time backlog and aging visibility
 
-image  
+<img width="1013" height="776" alt="image" src="https://github.com/user-attachments/assets/3629567a-bba3-4557-9f2d-ff3b3114dc44" />
 *Figure 2: Future State Endorsement Intake & Processing Flow*
 
 ✨ This step clarified *where* improvements occur and *how* success would be measured.
@@ -172,8 +172,8 @@ To ensure sustainable delivery, I defined governance, implementation, and transi
 - KPI monitoring and dashboards
 - Defined process for rule updates and exceptions
 
-image  
-*Figure 5: Implementation & Transition Plan*
+<img width="1680" height="590" alt="image" src="https://github.com/user-attachments/assets/9d670741-e45d-4e8a-b1ba-92c7ea576c1a" />
+*Figure 5: Implementation Plan*
 
 ✨ Governance and transition planning ensured accountability beyond go-live.
 
@@ -201,8 +201,8 @@ I consolidated all analysis into sponsor-ready recommendations.
 ---
 
 ## Part 8: Tools & Methods Used
-- Documentation: Word / Markdown
-- Modeling: Process flow diagrams
+- Documentation: Word & Excel
+- Modeling: Process flow diagrams using Draw.io
 - Analysis: Gap analysis, traceability mapping
 - Collaboration & Review: ChatGPT (acting as sponsor/reviewer)
 
@@ -298,6 +298,6 @@ This mirrors how I work with sponsors and senior stakeholders in practice—trea
 ---
 
 ## Part 12: Next Steps
-Next, I would move into **detailed requirements and functional specifications**, building on the approved future state and objectives.
+Next, I would move into high level business requirements including business triage rules, building on the approved future state and objectives.
 
 🔗 Back to TOC
