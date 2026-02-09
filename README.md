@@ -46,7 +46,7 @@ This resulted in longer turnaround times, inefficient resource use, rework, and 
 *Figure 1: Current State Endorsement Intake & Processing Flow*
 
 
-✨ Defining the problem clearly and documenting the current state created the foundation for identifying gaps, setting goals, and designing a defensible solution.
+✨ Defining the problem clearly and documenting the current state created the foundation for identifying gaps, setting goals, and designing a solution that could be clearly justified to stakeholders.
 
 🔗 Back to TOC
 
