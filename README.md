@@ -235,16 +235,7 @@ The project delivered:
 
 ---
 
-## Part 11: Learnings & Reflection
-- Intake design has outsized downstream impact
-- Traceability is critical for alignment and defensibility
-- Metrics define credibility
-- Feedback-driven iteration strengthens analysis
-- Efficiency and compliance can coexist
-
-✨ This case study deepened my ability to bridge operational problems with strategic, data-backed solutions.
-
-## 🧠 How I Think as a Business Analyst
+## Part 11: How I Think as a Business Analyst
 This case study reflects how I consistently approach business analysis work:
 
 - Start with the problem, not the solution 
@@ -254,6 +245,8 @@ This case study reflects how I consistently approach business analysis work:
 - Define success with measurable outcomes  
 - Iterate through feedback and challenge  
 - Think end-to-end, beyond individual requirements
+
+✨ This case study deepened my ability to bridge operational problems with strategic, data-backed solutions.
 
 🔗 Back to TOC
 
