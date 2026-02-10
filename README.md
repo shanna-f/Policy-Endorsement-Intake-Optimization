@@ -7,19 +7,20 @@ A fictional case study project (for portfolio purposes) where I worked on improv
 ---
 
 ## 📑 Table of Contents
-- [Problem Statement & Current State](#1-problem-statement--current-state-analysis)
-- [Stakeholder Analysis](#2-stakeholder-analysis)
-- Goals, Alignment & Success Measures
-- Proposed Solution & Future State
-- Stakeholder Analysis
-- Risk, Cost & Benefit Analysis
-- Governance, Implementation & Transition Planning
-- Recommendations & Executive Summary
-- Tools & Methods Used
-- Deliverables Created
-- Outcomes
-- Learnings & Reflection
-- Next Steps
+1. [Problem Statement & Current State](#1-problem-statement--current-state-analysis)
+2. [Stakeholder Analysis](#2-stakeholder-analysis)
+3. [Gap Analysis, Future State & Proposed Solution](#3-gap-analysis-future-state--proposed-solution)
+4. [Goals, Alignment & Success Measures](#4-goals-alignment--success-measures)
+5. [Traceability & Alignment](#5-traceability--alignment)
+6. [Risk, Cost & Benefit Analysis](#6-risk-cost--benefit-analysis)
+7. [Governance, Implementation & Transition Planning](#7-governance-implementation--transition-planning)
+8. [Recommendations & Executive Summary](#8-recommendations--executive-summary)
+9. [Validation & Iterative Review Approach](#9-validation--iterative-review-approach)
+10. [Tools & Methods Used](#10-tools--methods-used)
+11. [Deliverables Created](#11-deliverables-created)
+12. [Outcomes](#12-outcomes)
+13. [How I Think as a Business Analyst](#13-how-i-think-as-a-business-analyst)
+14. [Next Steps](#14-next-steps)
 
 ---
 
