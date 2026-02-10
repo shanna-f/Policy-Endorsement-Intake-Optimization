@@ -119,7 +119,7 @@ Three high-level options were evaluated:
 2. **Partial Triage** – Limited intake differentiation. ⚠️ Minor improvement; not scalable  
 3. **Full Process Optimization (Recommended)** – Complexity-based triage, differentiated workflows, embedded compliance, dashboards ✅ Scalable, efficient, risk-aligned  
 
-### ☀️ Proposed Solution – High-Level Overview
+### ☀️ Proposed Solution
 Key components:
 
 - **Triage at Intake:** Classify endorsements as simple or complex  
