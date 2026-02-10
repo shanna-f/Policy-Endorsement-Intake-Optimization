@@ -278,8 +278,6 @@ To ensure sustainable delivery, I defined governance, implementation, and transi
 
 ✨ Governance and transition planning ensured accountability beyond go-live.
 
-🔗 Back to TOC
-
 ---
 
 ## 8. Recommendations & Executive Summary
@@ -296,8 +294,6 @@ I consolidated all analysis into sponsor-ready recommendations.
 - Differentiated workflows improve speed and efficiency
 - Annual savings of ~$525K with <1 year payback
 - Improves customer experience without compromising compliance
-
-🔗 Back to TOC
 
 ---
 
@@ -320,8 +316,6 @@ This mirrors how I work with sponsors and senior stakeholders in practice—trea
 - Analysis: Gap analysis, traceability mapping
 - Collaboration & Review: ChatGPT (acting as sponsor/reviewer)
 
-🔗 Back to TOC
-
 ---
 
 ## 11. Deliverables Created
@@ -334,8 +328,6 @@ This mirrors how I work with sponsors and senior stakeholders in practice—trea
 - Financial & ROI Analysis
 - Governance & Implementation Plan
 
-🔗 Back to TOC
-
 ---
 
 ## Part 12: Outcomes
@@ -344,8 +336,6 @@ The project delivered:
 - Reduced processing time for simple endorsements
 - Improved workload visibility and decision-making
 - Stronger alignment across Operations, Compliance, and IT
-
-🔗 Back to TOC
 
 ---
 
@@ -362,12 +352,7 @@ This case study reflects how I consistently approach business analysis work:
 
 ✨ This case study deepened my ability to bridge operational problems with strategic, data-backed solutions.
 
-🔗 Back to TOC
-
-
 ---
 
 ## Part 14: Next Steps
 Next, I would move into high level business requirements including business triage rules, building on the approved future state and objectives.
-
-🔗 Back to TOC
