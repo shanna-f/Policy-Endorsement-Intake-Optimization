@@ -25,7 +25,8 @@ A fictional case study project (for portfolio purposes) where I worked on improv
 ---
 
 ## 1. Problem Statement & Current State Analysis
-For this case study (fictional, for portfolio purposes), I imagined working with a Policy Operations team experiencing delays and growing backlogs in processing policy endorsements.
+
+**Intro:** This section defines the business problem, highlights challenges in the current endorsement process, and documents the current state to set the stage for gap analysis and solution design.
 
 ### ⚠️ Key Challenges
 - Single intake queue for all endorsement requests
