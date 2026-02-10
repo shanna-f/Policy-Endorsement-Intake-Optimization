@@ -197,7 +197,7 @@ I defined clear goals, objectives, strategic alignment, and KPIs to translate id
 I created traceability mapping to connect pain points, current-state gaps, future-state changes, goals, objectives, and KPIs. This ensured every solution element addressed a validated problem and maintained alignment across the initiative.
 
 ### 🔗 Traceability Mapping
-- Linked **pain points → current-state gaps → future-state changes → business goals → KPIs**  
+- Linked **pain points → current-state gaps → future-state changes → business objectives → KPIs**  
 - Ensured every objective was grounded in a validated problem  
 - Avoided isolated requirements or design decisions
 
