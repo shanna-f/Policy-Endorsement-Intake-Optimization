@@ -332,10 +332,9 @@ This case study reflects how I consistently approach business analysis work:
 - Start with the problem, not the solution 
 - Design for differentiation, not uniformity  
 - Maintain traceability at all times
-- Balance efficiency with control 
 - Define success with measurable outcomes  
 - Iterate through feedback and challenge  
-- Think end-to-end, beyond individual requirements
+- Think end-to-end
 
 ✨ This case study deepened my ability to bridge operational problems with strategic, data-backed solutions.
 
