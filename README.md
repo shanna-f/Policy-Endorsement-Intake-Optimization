@@ -22,7 +22,7 @@ A fictional case study project (for portfolio purposes) where I worked on improv
 
 ---
 
-## Part 1: Problem Statement & Current State Analysis
+## 1. Problem Statement & Current State Analysis
 For this case study (fictional, for portfolio purposes), I imagined working with a Policy Operations team experiencing delays and growing backlogs in processing policy endorsements.
 
 ### ⚠️ Key Challenges
@@ -52,7 +52,7 @@ This resulted in longer turnaround times, inefficient resource use, rework, and 
 
 ---
 
-## Part 2: Stakeholder Analysis
+## 2. Stakeholder Analysis
 With the problem and current state clearly understood, the next step was to identify who was impacted, who influenced decisions, and how each stakeholder group needed to be engaged to move the initiative forward.
 
 ### 🔑 Key Stakeholders
@@ -75,7 +75,7 @@ I tailored communication strategies based on influence, interest, and role.
 
 ---
 
-## Part 3: Gap Analysis, Future State & Proposed Solution
+## 3. Gap Analysis, Future State & Proposed Solution
 
 With stakeholders aligned and the problem clearly defined, I focused on understanding **where the current process fell short**, what the future state needed to achieve, and which solution approach best balanced efficiency, compliance, and operational impact.
 
@@ -91,7 +91,7 @@ I followed a structured, analysis-driven approach to move from problem to soluti
 
 This ensured the recommended solution addressed validated problems rather than assumptions.
 
-## 🔍 Gap Analysis
+### 🔍 Gap Analysis
 Comparing the current endorsement process to the desired future state revealed:
 
 **Key Gaps:**  
@@ -112,14 +112,14 @@ These gaps informed the future-state design and solution evaluation.
 
 *Figure 2: Gap Analysis Table*
 
-## 🔮 Options Considered
+### 🔮 Options Considered
 Three high-level options were evaluated:
 
 1. **Do Nothing** – Maintain current workflow. ❌ Inefficiencies persist  
 2. **Partial Triage** – Limited intake differentiation. ⚠️ Minor improvement; not scalable  
 3. **Full Process Optimization (Recommended)** – Complexity-based triage, differentiated workflows, embedded compliance, dashboards ✅ Scalable, efficient, risk-aligned  
 
-## ☀️ Proposed Solution – High-Level Overview
+### ☀️ Proposed Solution – High-Level Overview
 Key components:
 
 - **Triage at Intake:** Classify endorsements as simple or complex  
@@ -128,7 +128,7 @@ Key components:
 - **Enhanced Visibility:** Dashboards for backlog and aging  
 - **Integrated Compliance Checks:** Early rule-based checks with audit trails  
 
-## 📦 Scope
+### 📦 Scope
 **In Scope:**  
 - Complexity-based intake triage  
 - Fast-track workflow for simple endorsements  
@@ -145,7 +145,6 @@ Key components:
 
 Defining scope boundaries helped prevent scope creep and ensured delivery remained aligned to the core business problem.
 
-🔗 Back to TOC
 <img width="1013" height="776" alt="image" src="https://github.com/user-attachments/assets/3629567a-bba3-4557-9f2d-ff3b3114dc44" />
 
 *Figure 2: Future State Endorsement Intake & Processing Flow*
@@ -158,7 +157,7 @@ Defining scope boundaries helped prevent scope creep and ensured delivery remain
 
 ---
 
-## Part 4: Goals, Alignment & Success Measures
+## 4. Goals, Alignment & Success Measures
 With the problems clearly defined, I moved into setting goals and success metrics to ensure the initiative delivered both operational and strategic value.
 
 With the problems clearly defined, I set **goals, objectives, strategic alignment, and KPIs** to ensure the initiative delivered both operational and strategic value. These elements are connected logically:
@@ -203,7 +202,32 @@ With the problems clearly defined, I set **goals, objectives, strategic alignmen
 
 ---
 
-## Part 5: Risk, Cost & Benefit Analysis
+## 5. Traceability & Alignment
+A critical focus of this case study was ensuring **end-to-end traceability** across the analysis and solution design.
+
+I created and maintained traceability mapping to explicitly link:
+- Identified pain points  
+- Current-state gaps  
+- Future-state process changes  
+- Business goals and SMART objectives  
+- KPIs and success metrics  
+
+This ensured:
+- Every solution element addressed a validated problem  
+- Every objective could be traced back to a specific pain point  
+- No requirements or design decisions existed in isolation  
+
+I spent significant time **reviewing and aligning key sections together**, including:
+- Problem statement and pain points  
+- Gap analysis  
+- Future-state workflow  
+- Goals, objectives, and KPIs  
+
+This iterative alignment strengthened the business narrative, removed inconsistencies, and resulted in a cohesive and defensible case for change.
+
+---
+
+## 6. Risk, Cost & Benefit Analysis
 I built the business case by evaluating risks, benefits, and financial impact.
 
 ### 🚨 Risks & Mitigations
@@ -232,7 +256,7 @@ image
 
 ---
 
-## Part 6: Governance, Implementation & Transition Planning
+## 7. Governance, Implementation & Transition Planning
 To ensure sustainable delivery, I defined governance, implementation, and transition plans together.
 
 ### 🏛️ Governance Plan
@@ -264,7 +288,7 @@ To ensure sustainable delivery, I defined governance, implementation, and transi
 
 ---
 
-## Part 7: Recommendations & Executive Summary
+## 8. Recommendations & Executive Summary
 I consolidated all analysis into sponsor-ready recommendations.
 
 ### ✅ Recommendations
@@ -283,7 +307,20 @@ I consolidated all analysis into sponsor-ready recommendations.
 
 ---
 
-## Part 8: Tools & Methods Used
+## 9. Validation & Iterative Review Approach
+To simulate real-world stakeholder challenge and sponsorship, I used **ChatGPT as a stand-in project sponsor and reviewer** throughout the case study.
+
+I deliberately:
+- Asked clarifying questions to test problem framing  
+- Requested critiques of gaps, objectives, and solution logic  
+- Challenged whether KPIs truly measured intended outcomes  
+- Reviewed feedback and made targeted updates to improve clarity, rigor, and alignment  
+
+This mirrors how I work with sponsors and senior stakeholders in practice—treating analysis as iterative, review-driven, and continuously refined rather than “one and done.”
+
+---
+
+## 10. Tools & Methods Used
 - Documentation: Word & Excel
 - Modeling: Process flow diagrams using Draw.io
 - Analysis: Gap analysis, traceability mapping
@@ -293,7 +330,7 @@ I consolidated all analysis into sponsor-ready recommendations.
 
 ---
 
-## Part 9: Deliverables Created
+## 11. Deliverables Created
 - Business Case Document
 - Current State Process Flow
 - Future State Process Flow
@@ -307,7 +344,7 @@ I consolidated all analysis into sponsor-ready recommendations.
 
 ---
 
-## Part 10: Outcomes
+## Part 12: Outcomes
 The project delivered:
 - Clear traceability from pain points → solution → objectives → KPIs
 - Reduced processing time for simple endorsements
@@ -318,7 +355,7 @@ The project delivered:
 
 ---
 
-## Part 11: How I Think as a Business Analyst
+## Part 13: How I Think as a Business Analyst
 This case study reflects how I consistently approach business analysis work:
 
 - Start with the problem, not the solution 
@@ -333,47 +370,10 @@ This case study reflects how I consistently approach business analysis work:
 
 🔗 Back to TOC
 
----
-
-## 🔗 Traceability & Alignment
-A critical focus of this case study was ensuring **end-to-end traceability** across the analysis and solution design.
-
-I created and maintained traceability mapping to explicitly link:
-- Identified pain points  
-- Current-state gaps  
-- Future-state process changes  
-- Business goals and SMART objectives  
-- KPIs and success metrics  
-
-This ensured:
-- Every solution element addressed a validated problem  
-- Every objective could be traced back to a specific pain point  
-- No requirements or design decisions existed in isolation  
-
-I spent significant time **reviewing and aligning key sections together**, including:
-- Problem statement and pain points  
-- Gap analysis  
-- Future-state workflow  
-- Goals, objectives, and KPIs  
-
-This iterative alignment strengthened the business narrative, removed inconsistencies, and resulted in a cohesive and defensible case for change.
 
 ---
 
-## 🧪 Validation & Iterative Review Approach
-To simulate real-world stakeholder challenge and sponsorship, I used **ChatGPT as a stand-in project sponsor and reviewer** throughout the case study.
-
-I deliberately:
-- Asked clarifying questions to test problem framing  
-- Requested critiques of gaps, objectives, and solution logic  
-- Challenged whether KPIs truly measured intended outcomes  
-- Reviewed feedback and made targeted updates to improve clarity, rigor, and alignment  
-
-This mirrors how I work with sponsors and senior stakeholders in practice—treating analysis as iterative, review-driven, and continuously refined rather than “one and done.”
-
----
-
-## Part 12: Next Steps
+## Part 14: Next Steps
 Next, I would move into high level business requirements including business triage rules, building on the approved future state and objectives.
 
 🔗 Back to TOC
