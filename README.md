@@ -146,9 +146,7 @@ Defining scope boundaries helped prevent scope creep and ensured delivery remain
 
 *Figure 2: Future State Endorsement Intake & Processing Flow*
 
-✨ Grounding the future-state design in gap analysis and a clearly defined scope ensured the solution addressed real operational pain points without overextending the initiative.
-✨ This step clarified *where* improvements occur and *how* success would be measured.
-
+✨ By directly linking identified gaps to solution options, I ensured we were solving the right problems—designing a future state that addressed real operational pain points, improved efficiency, maintained compliance, and provided actionable visibility.
 
 ***With the solution and scope defined, I then established clear goals and success measures to ensure the changes delivered measurable business value.***
 
