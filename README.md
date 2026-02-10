@@ -223,7 +223,7 @@ I spent significant time **reviewing and aligning key sections together**, inclu
 - Future-state workflow  
 - Goals, objectives, and KPIs  
 
-This iterative alignment strengthened the business narrative, removed inconsistencies, and resulted in a cohesive and defensible case for change.
+Through iterative alignment, the business narrative was strengthened, inconsistencies removed, and a cohesive, well-supported case for change established.
 
 ---
 
