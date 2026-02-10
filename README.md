@@ -297,12 +297,6 @@ To simulate real-world stakeholder challenge and sponsorship, I used **ChatGPT a
 - Challenged KPIs to confirm they measured intended outcomes  
 - Incorporated feedback to refine clarity, rigor, and alignment
 
-I deliberately:
-- Asked clarifying questions to test problem framing  
-- Requested critiques of gaps, objectives, and solution logic  
-- Challenged whether KPIs truly measured intended outcomes  
-- Reviewed feedback and made targeted updates to improve clarity, rigor, and alignment  
-
 ✨ This mirrors how I work with sponsors and senior stakeholders in practice—treating analysis as iterative, review-driven, and continuously refined rather than “one and done.”
 
 ---
