@@ -309,15 +309,12 @@ To simulate real-world stakeholder challenge and sponsorship, I used **ChatGPT a
 
 ---
 
-## 11. Deliverables Created
+## 11. Key Deliverables
 - Business Case Document
 - Current State Process Flow
 - Future State Process Flow
 - Gap Analysis
 - Stakeholder Register
-- KPIs & Success Metrics
-- Financial & ROI Analysis
-- Governance & Implementation Plan
 
 ---
 
