@@ -66,7 +66,7 @@ I tailored communication strategies based on influence, interest, and role.
 
 <img width="1665" height="685" alt="image" src="https://github.com/user-attachments/assets/3661e2ac-4a20-48ce-ad9b-ff6a8a2baed5" />
  
-*Figure 3: Stakeholder Register*
+*Figure 2: Stakeholder Register*
 
 ✨ Communication is not one-size-fits-all. Tailoring engagement reduced friction and improved buy-in.
 
@@ -107,7 +107,7 @@ These gaps informed the future-state design and solution evaluation.
 
 <img width="1700" height="965" alt="image" src="https://github.com/user-attachments/assets/ee317b13-7e37-4723-a1db-ce22e36fe65a" />
 
-*Figure 2: Gap Analysis Table*
+*Figure 3: Gap Analysis Table*
 
 ### 🔮 Options Considered
 Three high-level options were evaluated:
@@ -144,7 +144,7 @@ Defining scope boundaries helped prevent scope creep and ensured delivery remain
 
 <img width="1013" height="776" alt="image" src="https://github.com/user-attachments/assets/3629567a-bba3-4557-9f2d-ff3b3114dc44" />
 
-*Figure 2: Future State Endorsement Intake & Processing Flow*
+*Figure 4: Future State Endorsement Intake & Processing Flow*
 
 ✨ By directly linking identified gaps to solution options, I ensured we were solving the right problems—designing a future state that addressed real operational pain points, improved efficiency, maintained compliance, and provided actionable visibility.
 
@@ -189,7 +189,7 @@ With the problems clearly defined, I set **goals, objectives, strategic alignmen
 
 <img width="1660" height="767" alt="image" src="https://github.com/user-attachments/assets/f7d8174f-9158-4da0-a7b0-e99d8451d473" />
 
-*Figure 2: Objectives*
+*Figure 5: Objectives*
 
 ✨ Establishing clear goals, SMART objectives, strategic alignment, and KPIs ensured accountability, measurable progress, and that the initiative solved the right operational and business problems.
 
@@ -274,8 +274,7 @@ To ensure sustainable delivery, I defined governance, implementation, and transi
 
 <img width="1680" height="590" alt="image" src="https://github.com/user-attachments/assets/9d670741-e45d-4e8a-b1ba-92c7ea576c1a" />
 
-*Figure 5: Implementation Plan*
-
+*Figure 6: Implementation Plan*
 
 ✨ Governance and transition planning ensured accountability beyond go-live.
 
@@ -331,7 +330,7 @@ This mirrors how I work with sponsors and senior stakeholders in practice—trea
 
 ---
 
-## Part 12: Outcomes
+## 12. Outcomes
 The project delivered:
 - Clear traceability from pain points → solution → objectives → KPIs
 - Reduced processing time for simple endorsements
@@ -340,7 +339,7 @@ The project delivered:
 
 ---
 
-## Part 13: How I Think as a Business Analyst
+## 13. How I Think as a Business Analyst
 This case study reflects how I consistently approach business analysis work:
 
 - Start with the problem, not the solution 
@@ -355,5 +354,5 @@ This case study reflects how I consistently approach business analysis work:
 
 ---
 
-## Part 14: Next Steps
+## 14. Next Steps
 Next, I would move into high level business requirements including business triage rules, building on the approved future state and objectives.
