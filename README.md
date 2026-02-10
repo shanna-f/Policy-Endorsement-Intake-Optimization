@@ -7,7 +7,8 @@ A fictional case study project (for portfolio purposes) where I worked on improv
 ---
 
 ## 📑 Table of Contents
-- Problem Statement & Current State [Problem Statement & Current State](#1-problem-statement--current-state-analysis)
+- [Problem Statement & Current State](#1-problem-statement--current-state-analysis)
+- [Stakeholder Analysis](#2-stakeholder-analysis)
 - Goals, Alignment & Success Measures
 - Proposed Solution & Future State
 - Stakeholder Analysis
