@@ -173,7 +173,7 @@ With the problems clearly defined, I set **goals, objectives, strategic alignmen
 - Increase visibility into endorsement queues
 - Maintain compliance and accuracy
 
-### 🎯 Key Objectives
+### 🎯 Sample Objectives
 - Reduce average processing time for simple endorsements from **5 days to 2 days** within 3 months
 - Reduce manual handoffs for simple endorsements by **50%** within 3 months
 - Provide real-time visibility into backlog by endorsement type and aging within **30 days**
