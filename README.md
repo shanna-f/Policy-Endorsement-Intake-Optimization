@@ -32,7 +32,7 @@ For this case study (fictional, for portfolio purposes), I imagined working with
 - Compliance checks occurring late in the process
 - Limited visibility into backlog by endorsement type
 
-### 🔹 Current State Highlights
+### 💡 Current State Highlights
 A high-level process flow revealed heavy reliance on:
 - Manual review for all endorsements
 - Skilled processors handling low-risk administrative work
