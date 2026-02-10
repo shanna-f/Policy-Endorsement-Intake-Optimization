@@ -261,7 +261,7 @@ To ensure sustainable delivery, I defined governance, implementation, and transi
 - KPI monitoring and dashboards
 - Defined process for rule updates and exceptions
 
-<img width="1680" height="590" alt="image" src="https://github.com/user-attachments/assets/9d670741-e45d-4e8a-b1ba-92c7ea576c1a" />
+<img width="1685" height="600" alt="image" src="https://github.com/user-attachments/assets/7a314e89-2556-43eb-9bb4-fd6db4edcdca" />
 
 *Figure 6: Implementation Plan*
 
