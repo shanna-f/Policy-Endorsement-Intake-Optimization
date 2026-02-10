@@ -108,6 +108,10 @@ Comparing the current endorsement process to the desired future state revealed:
 
 These gaps informed the future-state design and solution evaluation.
 
+<img width="1700" height="965" alt="image" src="https://github.com/user-attachments/assets/ee317b13-7e37-4723-a1db-ce22e36fe65a" />
+
+*Figure 2: Gap Analysis Table*
+
 ## 🔮 Options Considered
 Three high-level options were evaluated:
 
