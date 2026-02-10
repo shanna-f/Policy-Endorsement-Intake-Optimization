@@ -311,7 +311,7 @@ To simulate real-world stakeholder challenge and sponsorship, I used **ChatGPT a
 
 ## 11. Key Deliverables
 - Business Case Document
-- - [Business Case (PDF)](https://github.com/shanna-f/Policy-Endorsement-Intkae-Optimization/blob/main/Business%20Case.pdf) 
+- - [Business Case (PDF)](https://github.com/shanna-f/Policy-Endorsement-Intake-Optimization/blob/main/Business%20Case.pdf) 
 - Current State Process Flow
 - Future State Process Flow
 - Gap Analysis
