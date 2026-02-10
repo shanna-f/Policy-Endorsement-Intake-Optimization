@@ -291,6 +291,12 @@ I consolidated all analysis into sponsor-ready recommendations.
 ## 9. Validation & Iterative Review Approach
 To simulate real-world stakeholder challenge and sponsorship, I used **ChatGPT as a stand-in project sponsor and reviewer** throughout the case study.
 
+### 🔍 Validation Activities
+- Asked clarifying questions to test problem framing  
+- Requested critiques of gaps, objectives, and solution logic  
+- Challenged KPIs to confirm they measured intended outcomes  
+- Incorporated feedback to refine clarity, rigor, and alignment
+
 I deliberately:
 - Asked clarifying questions to test problem framing  
 - Requested critiques of gaps, objectives, and solution logic  
