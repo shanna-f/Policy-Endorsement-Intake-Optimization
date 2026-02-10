@@ -10,7 +10,7 @@ A fictional case study project (for portfolio purposes) where I worked on improv
 1. [Problem Statement & Current State](#1-problem-statement--current-state-analysis)
 2. [Stakeholder Analysis](#2-stakeholder-analysis)
 3. [Gap Analysis, Future State & Proposed Solution](#3-gap-analysis-future-state--proposed-solution)
-4. [Goals, Alignment & Success Measures](#4-goals-alignment--success-measures)
+4. [Goals, Alignment & Success Measures](#4-goals-objectives--kpis)
 5. [Traceability & Alignment](#5-traceability--alignment)
 6. [Risk, Cost & Benefit Analysis](#6-risk-cost--benefit-analysis)
 7. [Governance, Implementation & Transition Planning](#7-governance-implementation--transition-planning)
@@ -150,7 +150,7 @@ Defining scope boundaries helped prevent scope creep and ensured delivery remain
 
 ---
 
-## 4. Goals, Alignment & Success Measures
+## 4. Goals, Objectives & KPIs
 I defined clear goals, objectives, strategic alignment, and KPIs to translate identified gaps into actionable targets. This ensured the solution would deliver measurable operational improvements while supporting broader business priorities.
 
 **Logical Flow:**
