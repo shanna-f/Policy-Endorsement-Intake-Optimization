@@ -304,7 +304,7 @@ To simulate real-world stakeholder challenge and sponsorship, I used **ChatGPT a
 ## 10. Tools & Methods Used
 - Documentation: Word & Excel
 - Modeling: Process flow diagrams using Draw.io
-- Analysis: Gap analysis, traceability mapping
+- Analysis: Gap analysis, Traceability mapping
 - Collaboration & Review: ChatGPT (acting as sponsor/reviewer)
 
 ---
