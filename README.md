@@ -154,7 +154,6 @@ Defining scope boundaries helped prevent scope creep and ensured delivery remain
 ---
 
 ## 4. Goals, Alignment & Success Measures
-With the problems clearly defined, I moved into setting goals and success metrics to ensure the initiative delivered both operational and strategic value.
 
 With the problems clearly defined, I set **goals, objectives, strategic alignment, and KPIs** to ensure the initiative delivered both operational and strategic value. These elements are connected logically:
 
