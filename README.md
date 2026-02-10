@@ -48,8 +48,6 @@ This resulted in longer turnaround times, inefficient resource use, rework, and 
 
 ✨ Defining the problem clearly and documenting the current state created the foundation for identifying gaps, setting goals, and designing a solution that could be clearly justified to stakeholders.
 
-🔗 Back to TOC
-
 ---
 
 ## 2. Stakeholder Analysis
@@ -70,8 +68,6 @@ I tailored communication strategies based on influence, interest, and role.
 *Figure 3: Stakeholder Register*
 
 ✨ Communication is not one-size-fits-all. Tailoring engagement reduced friction and improved buy-in.
-
-🔗 Back to TOC
 
 ---
 
@@ -153,8 +149,6 @@ Defining scope boundaries helped prevent scope creep and ensured delivery remain
 
 ***With the solution and scope defined, I then established clear goals and success measures to ensure the changes delivered measurable business value.***
 
-🔗 Back to TOC
-
 ---
 
 ## 4. Goals, Alignment & Success Measures
@@ -173,7 +167,7 @@ With the problems clearly defined, I set **goals, objectives, strategic alignmen
 - Increase visibility into endorsement queues
 - Maintain compliance and accuracy
 
-### 🎯 Sample Objectives
+### ✅ Sample Objectives
 - Reduce average processing time for simple endorsements from **5 days to 2 days** within 3 months
 - Reduce manual handoffs for simple endorsements by **50%** within 3 months
 - Provide real-time visibility into backlog by endorsement type and aging within **30 days**
@@ -197,8 +191,6 @@ With the problems clearly defined, I set **goals, objectives, strategic alignmen
 *Figure 2: Objectives*
 
 ✨ Establishing clear goals, SMART objectives, strategic alignment, and KPIs ensured accountability, measurable progress, and that the initiative solved the right operational and business problems.
-
-🔗 Back to TOC
 
 ---
 
@@ -228,7 +220,14 @@ Through iterative alignment, the business narrative was strengthened, inconsiste
 ---
 
 ## 6. Risk, Cost & Benefit Analysis
-I built the business case by evaluating risks, benefits, and financial impact.
+
+Then I built the business case by analyzing risks, costs, and benefits.
+
+### 📒 My Approach
+- Identified risks & mitigation plans
+- Outlined tangible + intangible benefits
+- Estimated costs for implementation
+- Pulled it all together in a financial breakdown
 
 ### 🚨 Risks & Mitigations
 - Incorrect complexity classification → clear rules, QA sampling
@@ -247,12 +246,7 @@ I built the business case by evaluating risks, benefits, and financial impact.
 - **Payback Period:** < 1 year
 - **3-Year ROI:** 443%
 
-image  
-*Figure 4: Cost–Benefit & ROI Summary*
-
-✨ **Key Insight:** The business case became compelling when operational improvements were tied to measurable financial outcomes.
-
-🔗 Back to TOC
+✨ The business case became compelling when operational improvements were tied to measurable financial outcomes.
 
 ---
 
